@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"932fb11ec26fdb8d","type":"text","text":"# **VELOCITA' NAVI:**\nIn media, un veliero ha una velocita' di crociera di 16 nodi.\nRicorda che 1 nodo = 1 nautical mph\n\nPer semplicita', facciamo che 1 naut mile = 1 mile.\nIn realta' sarebbe:\n- 1 nautical mile = 1.852 km\n- 1 mile = 1.609 km\nUseremo il valore del miglio terrestre per comodita'","x":2720,"y":380,"width":562,"height":320,"color":"#00fbff"},
+		{"id":"c846a3b208c18090","type":"file","file":"Campaigns/Xyvalar-uni/Useful stuff/xyvalar_timeline.png","x":-819,"y":-640,"width":2880,"height":960},
+		{"id":"4e349633cb1f4159","type":"text","text":"Mano a mano che i Naevaris acquistano potere, sempre piu' persone vengono raggiunte e toccate dal loro potere, venendo dotati di poteri magici e potenziati.\nAd esempio in mare gira una ciurma di pirati che sbuca dal mare tipo olandese volante pk hanno fatto un accordo con i Naevaris di seminare il caos nel mondo per assisterli con il loro ritorno in cambio dell'immortalita'.\nSu questa nave, che poi sarebbe la [[Campaigns/Xyvalar/Worldbuilding/Worldbuilding#**Queenstorm **|Queenstorm]], c'e' una specie di bardo che canta e, in base alla canzone che canta, il mare e il cielo rispondono di conseguenza (ad esempio, se canta *[[Campaigns/Xyvalar/Worldbuilding/Canzoni#**Queenstorm**|Queenstorm]]* fa venire una tempesta poderosissima)","x":2120,"y":-640,"width":562,"height":320,"color":"6"},
+		{"id":"601d2a0556a86f73","type":"file","file":"Campaigns/Xyvalar/World/xyvalar_fisica.jpg","x":-1440,"y":380,"width":4122,"height":3099}
+	],
+	"edges":[]
+}
