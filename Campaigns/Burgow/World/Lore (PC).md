@@ -20,7 +20,8 @@ La ministrazione causò mutazioni profonde anche senza trasformare in bestia chi
 
 #### *III — Delle Arcane Lune e della nascita degli Jaeger* 
 
-A Burgow il cielo iniziò a mostrare dodici lune aberranti, che vennero chiamate le Arcane Lune. Ciascuna influenzava i burgowiti in moro diverso, inducendo la bestialità o esasperandola, oppure riportando alla vita coloro che da tempo erano passati al di là del bianco velo della morte. Gli studiosi dell'Università di Estmuro ipotizzarono che queste lune fossero frammenti dell’influenza di Grandi entità cosmiche, così, insieme alla Chiesa dell'Alba Pallida, iniziarono a studiare le lune, senza però divulgare nulla della loro ricerca. Si sa solo che, a un certo punto, iniziarono a circolare per le città degli uomini e delle donne estremamente più forti e resilienti degli altri, che si definivano _Jaeger_.
+A Burgow il cielo iniziò a mostrare dodici lune aberranti, che vennero chiamate le Arcane Lune. Ciascuna influenzava i burgowiti in moro diverso, inducendo la bestialità o esasperandola, oppure riportando alla vita coloro che da tempo erano passati al di là del bianco velo della morte. Gli studiosi dell'Università di Estmuro ipotizzarono che queste lune fossero frammenti dell’influenza di Grandi entità cosmiche, così, insieme alla Chiesa dell'Alba Pallida, iniziarono a studiare le lune, senza però divulgare nulla della loro ricerca. 
+Qualche tempo dopo l'apparizione delle Lune, iniziarono a circolare per la città degli uomini e delle donne estremamente più forti e resilienti degli altri, che si definivano _Jaeger_.
 
 #### *IV — Della guerra civile e del Re Apostata* 
 
