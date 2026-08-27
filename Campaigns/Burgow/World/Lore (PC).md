@@ -25,7 +25,7 @@ Qualche tempo dopo l'apparizione delle Lune, iniziarono a circolare per la citt�
 
 #### *IV — Della guerra civile e del Re Apostata* 
 
-Qualche anno dopo, Burgow cadde sotto il giogo di un sovrano folle, Reinhild l’Apostata, che, dopo un colpo di stato, prese il potere, bandì ogni culto e si proclamò unico dio. La sua persecuzione dei fedeli dell’Alba Pallida scatenò una guerra civile. Durante il conflitto, il fratello del re, Brandt, assassinò il sovrano con un pugnale avvelenato, mentre il re morente lanciò una maledizione: “Che la luna si tinga di sangue e che i morti tornino a mordere i vivi.” La sua ultima parola fu un nome dimenticato: “Yharnam…”
+Qualche anno dopo, Burgow cadde sotto il giogo di un sovrano folle, Reinhild l’Apostata, che, dopo un colpo di stato, prese il potere, bandì ogni culto e si proclamò unico dio. La sua persecuzione dei fedeli dell’Alba Pallida scatenò una guerra civile. Durante il conflitto, il fratello del re, Brandt, assassinò il sovrano con un pugnale avvelenato, mentre il re morente lanciò una maledizione: "Che la luna si tinga di sangue e che i morti tornino a mordere i vivi." La sua ultima parola fu un nome dimenticato: “Yharnam…”
 
 I rivoltosi, guidati dalla Chiesa, trionfarono. I superstiti della dinastia reale dei Silverblood furono risparmiati ma gli venne tolto tutto il potere. La chiesa assunse il controllo assoluto, e da allora ogni notte in cui sorge una Luna di Sangue scatena una Caccia.
 
