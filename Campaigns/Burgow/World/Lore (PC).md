@@ -2,7 +2,7 @@ TUTTO QUELLO CHE SANNO I PC È QUA
 
 # PROLOGO:
 
-#### *I – Della caduta di Yharnam e della fondazione di Burgow* 
+#### *I – Della fondazione di Burgow* 
 
 Nessuno ricorda più il vero nome di quella città. I documenti più antichi, ormai quasi del tutto dimenticati, la chiamano Culla Maledetta, o Sepolcro delle Bestie. Secoli or sono, un’epidemia di bestialità spazzò via l'intera civiltà che la abitava. I pochi sopravvissuti fuggirono per mare, portando con sé brandelli di conoscenza: il Sangue Antico, il terrore della Luna, e il ricordo di cacciatori che impugnavano lame trasformabili. Attraversarono l’oceano e fondarono una nuova civiltà, giurando di non ripetere gli errori del passato.
 
