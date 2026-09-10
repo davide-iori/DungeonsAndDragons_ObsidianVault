@@ -14,7 +14,7 @@ Lo stato della città andò sempre peggiorando, mentre la Luna e l'Abissale comb
 
 # EVENTI DI BLOODBORNE:
 
-DOCUMENTO TROVATO IN FORMA DI UN LIBRO DI PELLE CON INCISA LA RUNA *FORMLESS OEDON*, TENUTO IN MANO DA UN TIPO SU UNA SEDIA, CHIUSO NELLA SUA STANZA NELLE STANZE DEI COLLEGI DELLA GRAN CATTEDRALE DI BURGOW, CON UN COLTELLO NELL'ALTRA MANO, LA GOLA TAGLIATA E DEI TENTACOLI PALLIDI CHE GLI ESCONO DAGLI OCCHI. I PC CAPIRANNO CHE LA VERITÀ CHE OEDON GLI HA DETTO LO HA RESO PAZZO E INFETTATO CON LA PRESENZA DI UN GRANDE E LUI HA DECISO DI SUICIDARSI DOPO AVER SCRITTO TUTTO. TUTTAVIA MOLTO È SCRITTO A CAZZO DI CANE O SCARABOCCHIATO SOPRA OPPURE CONSUMATO DAL TEMPO.
+DOCUMENTO TROVATO IN FORMA DI UN LIBRO DI PELLE CON INCISA LA RUNA *FORMLESS OEDON*, TENUTO IN MANO DA UN TIPO SU UNA SEDIA, CHIUSO NELLA SUA STANZA NELLE STANZE DEI COLLEGI DELLA GRAN CATTEDRALE DI BURGOW, CON UN COLTELLO NELL'ALTRA MANO, LA GOLA TAGLIATA E DEI TENTACOLI PALLIDI CHE GLI ESCONO DAGLI OCCHI. I PC CAPIRANNO CHE LA VERITÀ CHE OEDON GLI HA DETTO LO HA RESO PAZZO E INFETTATO CON LA PRESENZA DI UN GRANDE E LUI HA DECISO DI SUICIDARSI DOPO AVER SCRITTO TUTTO. TUTTAVIA MOLTO È SCRITTO MALE O SCARABOCCHIATO SOPRA OPPURE CONSUMATO DAL TEMPO.
 
 #### I — Dei Grandi Esseri e degli Pthumeriani
 
@@ -234,6 +234,8 @@ La Chiesa trovò anche dei superstiti, la cui vita, ipotizzarono, era stata allu
 Settantatre anni dopo la reintroduzione della ministrazione, lo stato della città è sempre peggiore. Le Arcane Lune, un tempo rare, ora si susseguono senza sosta, e infine iniziò la Lunga Notte. La Luna di Sangue sorse, come sempre, ma questa volta non tramontò; passò un giorno, poi una settimana, poi un mese. La Chiesa dell'Alba Pallida ha dichiarato la quarantena, e gli unici a camminare per le strade sono cacciatori e bestie.
 
 Infine, la Luna ebbe la meglio. Sotto l'afflusso incessante delle bestie, i cacciatori sono tutti caduti, lentamente. Persino i membri più esperti e letali delle Lame della Vena hanno finito le energie, finché persino la loro comandante, Elara Vance, si è trasformata in una bestia che vaga sul Ponte dell’Unione. Il fondatore Lucian Voss allora si è barricato nella cattedrale, in attesa di una rivelazione. I cittadini restano chiusi nelle loro case, ma il cibo scarseggia e gli unici che osano avventurarsi nella città sono le restanti Lame della Vena, alcuni cittadini che hanno deciso di prendere la situazione in mano, o i criminali che sperano di trovare qualcosa da rubare o qualcuno da sgozzare. E nelle profondità di Niedertief, qualcosa si muove, generando Faglie Silenti, squarci nella realtà dove il tempo si ferma e il suono muore.
+
+
 
 C’è chi dice che l’eterna Luna di Sangue sia il sintomo di una guerra cosmica tra entità superiori alla comprensione umana, e c’è chi dice che l’unica speranza sia trovare un modo per risvegliare l’alba... anche se l’alba potrebbe essere peggiore della notte. 
 
